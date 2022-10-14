@@ -14,15 +14,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 
 
-With this analytics project, we hope to find trends emerging from police  shootings in the USA from 2015-2022 to gain an insight between the interaction of the police department with the general public and point out any inequality between these interactions based on age, gender, race, location, etc. We are interested in this topic because we feel analytics reports such as these can serve as a basis for bringing actual reform.
-
-Some specific questions we want to explore in this analysis are:
-1. If major political events caused any changes in ongoing trends.
-1. Are some states safer than others for particular racial groups.
-1. What are the main causes for such incidents.
-1. Which gender falls victim to police shootings more and by what margin.
-
-Yes! We can magine building a user-facing Dashboard with this dataset.
+{Add your stuff here}
 
 ## Describe your dataset in about 150-200 words
 
@@ -36,7 +28,7 @@ Yes! We can magine building a user-facing Dashboard with this dataset.
 
 - Person 1: Hi, I'm Sahraj Singh and when I started balling I was young.
 - Person 2: Hi, my name is Manav Gupta and I love watching and playing basketball. 
-- Person 3: Hi, my name is Sahi Chawla and I want to start a podcast.
+- Person 3: Hi, my name is Sahil Chawla and I want to start a podcast.
 
 ## Images
 
