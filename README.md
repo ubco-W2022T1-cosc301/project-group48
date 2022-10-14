@@ -28,7 +28,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 - Person 1: Hi, I'm Sahraj Singh and when I started balling I was young.
 - Person 2: Hi, my name is Manav Gupta and I love watching and playing basketball. 
-- Person 3: one sentence about you!
+- Person 3: Hi, my name is Sahi Chawla and I want to start a podcast.
 
 ## Images
 
