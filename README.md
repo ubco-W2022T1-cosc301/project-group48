@@ -1,8 +1,10 @@
-# Group 48 - {US Police Shootings (2015-2022)}
+
+# Group 48 - US Police Shooting (2015-2022)
+
 
 **Please remember to update this section**
 
-- Your title can change over time. S
+- Your title can change over time.
 
 ## Milestones
 
@@ -10,7 +12,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your topic/interest in about 150-200 words
 
-**Please remember to update this section**
+
 
 {Add your stuff here}
 
@@ -25,7 +27,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 **Please remember to update this section**
 
 - Person 1: one sentence about you!
-- Person 2: one sentence about you!
+- Person 2: Hi, my name is Manav Gupta and I love watching and playing basketball. 
 - Person 3: one sentence about you!
 
 ## Images
