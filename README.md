@@ -1,8 +1,8 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 48 - {US Police Shootings (2015-2022)}
 
 **Please remember to update this section**
 
-- Your title can change over time.
+- Your title can change over time. S
 
 ## Milestones
 
