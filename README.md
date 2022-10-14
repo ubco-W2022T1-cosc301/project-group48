@@ -20,8 +20,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 **Please remember to update this section**
 
-{Add your stuff here}
-
+Our dataset includes all Unites States Police Shooting from 2015 - September 2022. In our dataset, there are a list of people that were killed by law enforcement in the United States, on and off duty. Even though, Congress had told the Attorney General to compile and publish annual police shooting statistics online on when police use excessive force, however this was not carried out and the FBI also never collected this data. It has been licensed by US Government Works and has 7730 rows and 16 columns. The purpose of the dataset was for the government to be transparent with its citizens and therefore, it updates monthly to provide them with latest statistics. Additionally, it helps holding the police accountable for their actions and prevents them from misusing their power. 
 ## Team Members
 
 **Please remember to update this section**
