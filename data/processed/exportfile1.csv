@@ -1,0 +1,457 @@
+,date,manner_of_death,armed/unarmed,age,gender,race,city,state,signs_of_mental_illness,threat_level,flee,body_camera
+2,2015-01-03,shot and Tasered,unarmed,23.0,M,H,Wichita,KS,False,other,Not fleeing,False
+8,2015-01-06,shot,unarmed,34.0,F,W,Burlington,IA,False,other,Not fleeing,True
+17,2015-01-08,shot,unarmed,36.0,M,B,Strong,AR,False,attack,Not fleeing,False
+62,2015-01-26,shot,unarmed,24.0,M,H,Tahoka,TX,False,other,Car,False
+72,2015-01-29,shot,unarmed,42.0,M,W,Stillwater,OK,False,other,Foot,False
+78,2015-02-02,shot and Tasered,unarmed,59.0,M,W,Hummelstown,PA,False,other,Foot,False
+83,2015-02-04,shot,unarmed,28.0,M,B,Tallahassee,FL,False,attack,Not fleeing,False
+86,2015-02-04,shot,unarmed,28.0,M,H,Tempe,AZ,False,other,Not fleeing,False
+102,2015-02-10,shot and Tasered,unarmed,35.0,M,H,Pasco,WA,True,other,Foot,False
+107,2015-02-13,shot,unarmed,35.0,M,H,Reading,PA,False,other,Not fleeing,False
+114,2015-02-15,shot and Tasered,unarmed,25.0,M,B,Miami Gardens,FL,True,other,Not fleeing,False
+119,2015-02-17,shot,unarmed,31.0,M,W,Springfield,MO,False,other,Foot,False
+124,2015-02-20,shot,unarmed,31.0,M,H,Euless,TX,False,other,Not fleeing,False
+136,2015-02-23,shot and Tasered,unarmed,39.0,M,W,Omaha,NE,False,other,Not fleeing,False
+142,2015-02-26,shot,unarmed,49.0,M,W,Gulfport,MS,False,other,Not fleeing,False
+144,2015-02-26,shot and Tasered,unarmed,31.0,M,W,Terre Haute,IN,False,other,Not fleeing,False
+145,2015-02-27,shot,unarmed,27.0,M,H,Santa Ana,CA,False,other,Not fleeing,False
+147,2015-02-28,shot,unarmed,34.0,M,B,St Louis,MO,False,other,Car,False
+152,2015-02-28,shot and Tasered,unarmed,17.0,M,W,Roxand Township,MI,False,attack,Not fleeing,True
+155,2015-03-01,shot and Tasered,unarmed,43.0,M,B,Los Angeles,CA,True,attack,Not fleeing,True
+159,2015-03-04,shot,unarmed,26.0,M,W,Deltona,FL,False,other,Not fleeing,False
+162,2015-03-05,shot,unarmed,36.0,M,H,Burbank,CA,False,other,Car,False
+164,2015-03-06,shot,unarmed,19.0,M,B,Madison,WI,False,attack,Foot,False
+165,2015-03-06,shot,unarmed,37.0,M,B,Aurora,CO,False,other,Foot,False
+171,2015-03-09,shot,unarmed,27.0,M,B,Atlanta,GA,True,other,Not fleeing,False
+186,2015-03-12,shot,unarmed,35.0,M,B,Washington,DC,True,other,Not fleeing,False
+190,2015-03-13,shot,unarmed,32.0,M,H,Walnut Creek,CA,False,other,Foot,False
+201,2015-03-17,shot,unarmed,22.0,M,H,Sacramento,CA,False,other,Car,False
+206,2015-03-19,shot,unarmed,18.0,M,B,Cleveland,OH,False,attack,Not fleeing,False
+209,2015-03-19,shot,unarmed,20.0,M,W,Sumas,WA,True,attack,Not fleeing,False
+248,2015-04-02,shot,unarmed,44.0,M,B,Tulsa,OK,False,other,Not fleeing,False
+255,2015-04-04,shot and Tasered,unarmed,50.0,M,B,North Charleston,SC,False,other,Foot,False
+282,2015-04-15,shot,unarmed,41.0,M,B,Houston,TX,False,other,Car,False
+295,2015-04-21,shot,unarmed,37.0,M,N,Lakewood,WA,True,other,Foot,False
+299,2015-04-22,shot,unarmed,18.0,M,B,Portsmouth,VA,False,other,Not fleeing,False
+306,2015-04-23,shot,unarmed,19.0,M,H,Long Beach,CA,False,other,Not fleeing,False
+312,2015-04-25,shot,unarmed,24.0,M,B,New York,NY,True,attack,Foot,False
+314,2015-04-26,shot,unarmed,29.0,M,W,Bunch,OK,False,attack,Not fleeing,False
+327,2015-04-30,shot,unarmed,42.0,M,O,San Diego,CA,True,other,Not fleeing,True
+336,2015-05-05,shot,unarmed,29.0,M,B,Venice,CA,False,attack,Not fleeing,True
+362,2015-05-19,shot,unarmed,54.0,M,H,Arlington,VA,False,attack,Not fleeing,False
+387,2015-05-27,shot and Tasered,unarmed,20.0,M,O,Long Beach,CA,False,other,Not fleeing,False
+396,2015-05-30,shot,unarmed,19.0,M,W,Cottonwood,AZ,False,attack,Foot,False
+407,2015-06-03,shot and Tasered,unarmed,36.0,M,H,Los Lunas,NM,False,attack,Not fleeing,False
+420,2015-06-09,shot,unarmed,30.0,M,W,Findlay,OH,False,attack,Not fleeing,False
+423,2015-06-09,shot,unarmed,28.0,M,W,Des Moines,IA,False,other,Car,False
+436,2015-06-15,shot,unarmed,22.0,M,B,South Lake Tahoe,CA,False,other,Foot,False
+446,2015-06-21,shot,unarmed,24.0,M,H,Azusa,CA,True,other,Not fleeing,False
+452,2015-06-23,shot,unarmed,34.0,M,W,Indianapolis,IN,False,other,Car,False
+457,2015-06-25,shot,unarmed,41.0,M,B,Owings Mills,MD,True,other,Not fleeing,False
+469,2015-07-02,shot,unarmed,23.0,M,B,Jacksonville,FL,False,attack,Foot,False
+479,2015-07-05,shot,unarmed,19.0,M,W,Pleasanton,CA,False,attack,Foot,False
+481,2015-07-05,shot,unarmed,43.0,M,H,Hawaiian Gardens,CA,False,other,Not fleeing,False
+512,2015-07-12,shot and Tasered,unarmed,36.0,M,B,Plantation,FL,False,attack,Not fleeing,False
+529,2015-07-17,shot,unarmed,19.0,M,B,Memphis,TN,False,attack,Foot,False
+531,2015-07-17,shot and Tasered,unarmed,23.0,M,B,Orlando,FL,False,attack,Foot,False
+535,2015-07-19,shot,unarmed,43.0,M,B,Mt. Auburn,OH,False,other,Car,True
+538,2015-07-21,shot,unarmed,47.0,M,W,White,GA,False,other,Not fleeing,False
+548,2015-07-23,shot and Tasered,unarmed,31.0,M,W,Plymouth,MN,True,attack,Not fleeing,False
+586,2015-08-07,shot,unarmed,19.0,M,B,Arlington,TX,False,other,Not fleeing,False
+611,2015-08-14,shot,unarmed,30.0,M,B,District Heights,MD,True,attack,Foot,False
+616,2015-08-15,shot and Tasered,unarmed,43.0,M,W,Hanover,IN,False,attack,Not fleeing,False
+620,2015-08-17,shot,unarmed,40.0,M,H,San Jose,CA,False,other,Foot,False
+627,2015-08-20,shot and Tasered,unarmed,50.0,M,W,Tuscaloosa,AL,True,attack,Not fleeing,False
+655,2015-08-28,shot,unarmed,61.0,M,B,Mount Vernon,NY,False,other,Not fleeing,False
+659,2015-08-29,shot,unarmed,29.0,M,H,Chicago,IL,False,undetermined,Car,False
+667,2015-09-03,shot,unarmed,40.0,M,H,Fresno,CA,True,attack,Not fleeing,True
+676,2015-09-05,shot,unarmed,27.0,F,B,Virginia Beach,VA,False,undetermined,Not fleeing,False
+699,2015-09-14,shot,unarmed,28.0,M,W,Barstow,CA,True,attack,Not fleeing,False
+719,2015-09-21,shot and Tasered,unarmed,21.0,M,W,Paris,TX,False,attack,Not fleeing,False
+726,2015-09-23,shot,unarmed,19.0,M,B,Reisterstown,MD,False,other,Foot,False
+732,2015-09-25,shot,unarmed,21.0,M,W,Akron,OH,True,undetermined,Other,False
+741,2015-09-28,shot and Tasered,unarmed,31.0,M,B,Miami,FL,False,attack,Foot,False
+743,2015-09-29,shot,unarmed,37.0,M,W,Mora,MN,False,attack,Not fleeing,False
+747,2015-10-02,shot,unarmed,29.0,M,W,Amarillo,TX,False,undetermined,Not fleeing,False
+754,2015-10-05,shot,unarmed,27.0,M,O,Akron,OH,False,other,Not fleeing,False
+783,2015-10-16,shot,unarmed,27.0,M,H,Valinda,CA,False,attack,Not fleeing,False
+798,2015-10-21,shot,unarmed,21.0,M,H,West Goshen,CA,True,attack,Not fleeing,False
+813,2015-10-26,shot,unarmed,18.0,M,O,Tampa,FL,False,attack,Foot,False
+815,2015-10-28,shot,unarmed,29.0,M,B,Point Loma,CA,False,attack,Not fleeing,False
+828,2015-10-31,shot,unarmed,56.0,M,B,Opelika,AL,False,other,Car,False
+833,2015-11-03,shot,unarmed,6.0,M,W,Marksville,LA,False,other,Car,True
+837,2015-11-04,shot,unarmed,47.0,M,W,Pacific Beach,CA,False,other,Foot,True
+865,2015-11-15,shot,unarmed,24.0,M,B,Minneapolis,MN,False,undetermined,Not fleeing,False
+872,2015-11-17,shot,unarmed,58.0,M,W,Arlington,GA,False,other,Not fleeing,False
+880,2015-11-20,shot,unarmed,29.0,M,B,Barstow,CA,True,attack,Not fleeing,False
+883,2015-11-21,shot,unarmed,24.0,M,W,Colbert,OK,False,attack,Foot,False
+895,2015-11-26,shot,unarmed,26.0,M,W,Chico,CA,False,other,Car,True
+925,2015-12-08,shot,unarmed,36.0,M,B,Yonkers,NY,False,other,Foot,False
+933,2015-12-11,shot,unarmed,36.0,M,W,Tucson,AZ,False,attack,Not fleeing,False
+949,2015-12-14,shot,unarmed,19.0,M,H,Gilroy,CA,False,other,Not fleeing,True
+965,2015-12-21,shot,unarmed,,M,B,Breaux Bridge,LA,True,other,Not fleeing,False
+974,2015-12-23,shot,unarmed,35.0,M,B,Dearborn,MI,True,other,Not fleeing,False
+982,2015-12-26,shot,unarmed,55.0,F,B,Chicago,IL,False,other,,False
+993,2015-12-31,shot,unarmed,23.0,M,B,Las Vegas,NV,False,other,Not fleeing,True
+1017,2016-01-11,shot,unarmed,12.0,F,W,Penn Township,PA,False,other,Not fleeing,False
+1029,2016-01-16,shot,unarmed,25.0,F,W,El Cajon,CA,False,other,Car,False
+1034,2016-01-17,shot,unarmed,26.0,M,W,Mesa,AZ,False,other,Not fleeing,True
+1074,2016-01-31,shot and Tasered,unarmed,25.0,M,W,Saginaw,TX,False,attack,Not fleeing,False
+1082,2016-02-04,shot,unarmed,36.0,M,B,San Antonio,TX,False,other,Not fleeing,False
+1095,2016-02-08,shot,unarmed,17.0,M,B,Austin,TX,False,other,Not fleeing,False
+1097,2016-02-09,shot,unarmed,22.0,M,H,Anaheim,CA,False,undetermined,Not fleeing,True
+1112,2016-02-13,shot,unarmed,24.0,M,B,Beckville,TX,False,other,Other,False
+1113,2016-02-13,shot,unarmed,19.0,M,B,Arvonia,VA,False,attack,Not fleeing,False
+1151,2016-02-24,shot,unarmed,21.0,M,B,East Troy,WI,False,other,Car,False
+1156,2016-02-26,shot,unarmed,35.0,M,W,Rapid Valley,SD,False,attack,Not fleeing,False
+1164,2016-03-02,shot,unarmed,36.0,M,W,Bel Air,MD,True,other,Not fleeing,False
+1168,2016-03-04,shot,unarmed,30.0,M,W,East Bernstadt,KY,False,undetermined,Not fleeing,False
+1172,2016-03-06,shot,unarmed,42.0,M,W,Bismarck,ND,False,other,Foot,False
+1190,2016-03-12,shot and Tasered,unarmed,37.0,M,B,Houston,TX,False,other,Foot,False
+1193,2016-03-13,shot,unarmed,16.0,M,H,Addison,TX,False,undetermined,Car,False
+1194,2016-03-13,shot,unarmed,30.0,M,W,Lenoir City,TN,False,other,Car,True
+1203,2016-03-16,shot,unarmed,23.0,M,H,Florence,CA,True,other,Not fleeing,False
+1259,2016-04-03,shot,unarmed,48.0,M,W,Raceland,LA,False,undetermined,,False
+1262,2016-04-05,shot,unarmed,44.0,M,B,Indianapolis,IN,False,attack,Not fleeing,True
+1278,2016-04-12,shot,unarmed,40.0,M,W,Denver,CO,False,other,Car,False
+1284,2016-04-14,shot and Tasered,unarmed,54.0,M,W,McPherson,KS,True,attack,Not fleeing,False
+1290,2016-04-17,shot,unarmed,22.0,M,W,El Paso,TX,True,other,Not fleeing,False
+1343,2016-05-09,shot,unarmed,23.0,M,W,St. Martin,MS,False,attack,Not fleeing,False
+1364,2016-05-19,shot,unarmed,30.0,M,H,Las Vegas,NV,False,attack,Not fleeing,False
+1365,2016-05-19,shot,unarmed,29.0,F,B,San Francisco,CA,False,other,Car,False
+1371,2016-05-21,shot,unarmed,38.0,M,W,Oregon City,OR,True,attack,Not fleeing,False
+1373,2016-05-22,shot,unarmed,27.0,M,B,Hallandale Beach,FL,False,other,Car,True
+1375,2016-05-22,shot,unarmed,22.0,M,B,Jacksonville,FL,False,other,Car,False
+1396,2016-05-29,shot and Tasered,unarmed,38.0,M,W,Stoneville,NC,False,other,Car,False
+1413,2016-06-07,shot,unarmed,25.0,M,W,Wagoner,OK,False,other,Car,True
+1448,2016-06-18,shot,unarmed,37.0,M,B,Tupelo,MS,False,attack,Foot,False
+1460,2016-06-22,shot,unarmed,22.0,M,B,Atlanta,GA,False,undetermined,Other,True
+1470,2016-06-25,shot,unarmed,19.0,M,W,Fresno,CA,True,other,Car,True
+1472,2016-06-25,shot and Tasered,unarmed,36.0,M,H,Gainesville,GA,False,attack,Other,False
+1484,2016-06-29,shot,unarmed,30.0,M,W,Barbourville,KY,False,attack,Not fleeing,False
+1547,2016-07-27,shot,unarmed,19.0,M,B,Tempe,AZ,True,attack,Foot,False
+1554,2016-07-28,shot,unarmed,18.0,M,B,Chicago,IL,False,other,Car,True
+1556,2016-07-28,shot,unarmed,27.0,M,B,Compton,CA,False,attack,Other,False
+1571,2016-08-02,shot,unarmed,51.0,M,W,Castaic,CA,False,other,Foot,False
+1604,2016-08-16,shot,unarmed,25.0,M,H,Tucson,AZ,False,attack,Not fleeing,False
+1609,2016-08-18,shot,unarmed,29.0,M,W,Charlotte,NC,False,other,Car,True
+1639,2016-08-30,shot,unarmed,22.0,M,B,Tampa,FL,False,other,Not fleeing,False
+1640,2016-08-30,shot,unarmed,59.0,M,W,Harker Heights,TX,False,other,Other,False
+1679,2016-09-12,shot,unarmed,25.0,M,H,Colton,CA,False,other,Car,False
+1685,2016-09-16,shot,unarmed,29.0,M,N,Winooski,VT,False,other,Foot,True
+1687,2016-09-16,shot and Tasered,unarmed,40.0,M,B,Tulsa,OK,False,other,Not fleeing,False
+1702,2016-09-21,shot,unarmed,23.0,M,W,Louisville,NE,False,other,Not fleeing,False
+1703,2016-09-23,shot,unarmed,41.0,M,W,Fair Oaks,CA,False,attack,Foot,False
+1711,2016-09-27,shot,unarmed,38.0,M,B,El Cajon,CA,True,attack,Not fleeing,True
+1713,2016-09-28,shot,unarmed,32.0,M,B,Philadelphia,PA,False,attack,Not fleeing,False
+1745,2016-10-10,shot,unarmed,27.0,M,H,Irvine,CA,True,other,Not fleeing,False
+1786,2016-10-26,shot and Tasered,unarmed,36.0,M,W,Bartlesville,OK,False,attack,Not fleeing,False
+1806,2016-11-04,shot,unarmed,26.0,M,H,Palm Springs,CA,False,other,Not fleeing,False
+1817,2016-11-06,shot and Tasered,unarmed,33.0,M,H,Santa Ana,CA,False,attack,Not fleeing,False
+1823,2016-11-08,shot and Tasered,unarmed,19.0,M,W,Hays,KS,False,attack,Car,False
+1830,2016-11-11,shot and Tasered,unarmed,,M,B,East Point,GA,False,attack,Foot,False
+1846,2016-11-19,shot,unarmed,29.0,M,H,Anaheim,CA,False,attack,Foot,True
+1863,2016-11-25,shot,unarmed,26.0,M,H,Tucson,AZ,False,other,Not fleeing,True
+1872,2016-11-29,shot,unarmed,41.0,M,W,Lynn,MA,False,other,Not fleeing,False
+1875,2016-11-29,shot,unarmed,31.0,M,W,Iva,SC,False,attack,Foot,False
+1884,2016-12-04,shot,unarmed,26.0,M,A,Hudson,OH,False,other,Foot,False
+1905,2016-12-12,shot,unarmed,73.0,M,H,Bakersfield,CA,False,undetermined,Not fleeing,False
+1951,2016-12-31,shot and Tasered,unarmed,33.0,M,W,Mankato,MN,False,attack,Not fleeing,False
+1969,2017-01-07,shot,unarmed,41.0,M,W,Elkridge,MD,True,attack,Not fleeing,False
+1974,2017-01-09,shot,unarmed,38.0,M,B,Phoenix,AZ,False,other,Foot,True
+1977,2017-01-10,shot and Tasered,unarmed,23.0,M,B,Reagan,TN,False,attack,Not fleeing,False
+1997,2017-01-18,shot,unarmed,21.0,F,W,Dallas,TX,False,other,Car,True
+2013,2017-01-23,shot,unarmed,27.0,M,W,Springfield,IL,True,attack,Not fleeing,True
+2017,2017-01-24,shot,unarmed,22.0,M,W,Sugar Creek,MO,False,other,Car,False
+2021,2017-01-24,shot,unarmed,30.0,M,W,Algoma Township,MI,True,attack,Not fleeing,False
+2022,2017-01-24,shot,unarmed,32.0,M,H,Kuna,ID,False,other,Other,True
+2037,2017-01-29,shot,unarmed,18.0,M,H,Santa Ana,CA,False,other,Foot,False
+2057,2017-02-04,shot,unarmed,23.0,M,H,Moultrie,GA,False,other,Not fleeing,False
+2058,2017-02-05,shot,unarmed,45.0,M,B,Fremont,CA,True,attack,Not fleeing,False
+2071,2017-02-08,shot,unarmed,25.0,M,B,Chicago,IL,False,other,Foot,False
+2074,2017-02-09,shot and Tasered,unarmed,26.0,M,W,Geneva Township,OH,False,other,Not fleeing,False
+2079,2017-02-10,shot,unarmed,18.0,F,W,Vassalboro,ME,False,other,,False
+2093,2017-02-13,shot,unarmed,19.0,M,B,Detroit,MI,False,attack,Other,False
+2104,2017-02-17,shot,unarmed,30.0,M,W,Grand Prarie,TX,True,attack,Not fleeing,True
+2114,2017-02-20,shot,unarmed,27.0,M,W,St. Joseph,MO,False,attack,Not fleeing,False
+2155,2017-03-07,shot,unarmed,38.0,M,W,Medina,OH,False,other,Car,False
+2170,2017-03-14,shot,unarmed,56.0,M,W,Toms River,NJ,True,attack,,False
+2174,2017-03-14,shot,unarmed,16.0,F,H,Hayward,CA,False,other,,False
+2189,2017-03-19,shot,unarmed,21.0,F,B,Gifford,FL,False,other,Not fleeing,False
+2206,2017-03-26,shot,unarmed,56.0,M,W,Delray Beach,FL,True,attack,Not fleeing,False
+2222,2017-04-04,shot,unarmed,47.0,M,H,Bakersfield,CA,False,other,Foot,False
+2248,2017-04-15,shot,unarmed,16.0,M,H,Fresno,CA,False,other,Foot,True
+2257,2017-04-20,shot,unarmed,17.0,F,W,Glendale,AZ,False,other,Car,False
+2266,2017-04-24,shot,unarmed,35.0,M,W,Wolf Creek,OR,False,attack,Not fleeing,False
+2279,2017-04-29,shot,unarmed,15.0,M,B,Balch Springs,TX,False,undetermined,Not fleeing,True
+2305,2017-05-09,shot,unarmed,39.0,M,W,Lexington,SC,False,other,Foot,False
+2313,2017-05-12,shot,unarmed,35.0,M,W,Baldwin County,AL,False,other,Not fleeing,False
+2336,2017-05-21,shot,unarmed,24.0,M,B,Converse,LA,False,attack,Not fleeing,False
+2337,2017-05-21,shot,unarmed,37.0,M,H,Orlando,FL,False,attack,Not fleeing,False
+2343,2017-05-24,shot,unarmed,24.0,M,W,Canton,OH,True,attack,Not fleeing,True
+2346,2017-05-26,shot,unarmed,59.0,M,H,San Rafael,NM,False,other,Not fleeing,False
+2362,2017-06-02,shot,unarmed,34.0,M,B,Petal,MS,False,attack,Not fleeing,False
+2383,2017-06-08,shot and Tasered,unarmed,30.0,M,B,Philadelphia,PA,False,other,Foot,False
+2406,2017-06-16,shot,unarmed,24.0,F,W,Water Valley,MS,False,other,Car,False
+2421,2017-06-22,shot,unarmed,17.0,M,H,Palmdale,CA,False,other,Not fleeing,False
+2436,2017-06-29,shot,unarmed,45.0,M,B,Indianapolis,IN,False,other,Car,False
+2441,2017-06-30,shot,unarmed,23.0,M,W,Loveland,CO,False,attack,Foot,False
+2463,2017-07-05,shot,unarmed,24.0,M,H,Vista,CA,False,other,Foot,False
+2466,2017-07-06,shot,unarmed,27.0,M,B,Mamou,LA,False,other,Not fleeing,False
+2467,2017-07-07,shot,unarmed,33.0,M,B,Marietta,GA,True,attack,Not fleeing,False
+2491,2017-07-15,shot,unarmed,40.0,F,W,Minneapolis,MN,False,undetermined,Not fleeing,False
+2503,2017-07-19,shot,unarmed,38.0,M,O,Saginaw,MI,False,attack,Not fleeing,False
+2534,2017-07-31,shot,unarmed,28.0,M,B,Oshkosh,WI,False,attack,Car,True
+2560,2017-08-07,shot,unarmed,36.0,M,W,Blue Summit,MO,False,other,Car,False
+2604,2017-08-25,shot,unarmed,47.0,M,B,Woodville,GA,False,attack,Foot,False
+2615,2017-08-30,shot,unarmed,27.0,M,B,Miami,FL,False,other,Foot,False
+2625,2017-09-03,shot,unarmed,30.0,M,W,Akron,OH,True,attack,Not fleeing,True
+2633,2017-09-06,shot,unarmed,42.0,M,W,Los Angeles,CA,False,attack,Not fleeing,False
+2651,2017-09-15,shot,unarmed,32.0,M,H,San Jose,CA,False,other,Car,False
+2692,2017-10-01,shot,unarmed,41.0,M,W,Seward,AK,False,other,Car,True
+2702,2017-10-05,shot,unarmed,35.0,M,W,Hiram,GA,False,other,Not fleeing,False
+2722,2017-10-11,shot,unarmed,44.0,M,H,Valdez,CO,False,attack,Foot,False
+2738,2017-10-19,shot,unarmed,55.0,M,B,Corpus Christi,TX,False,attack,Foot,True
+2745,2017-10-22,shot,unarmed,27.0,M,H,Ceres,CA,False,other,Car,False
+2748,2017-10-22,shot,unarmed,30.0,M,N,Crandon,WI,False,attack,Not fleeing,False
+2752,2017-10-24,shot,unarmed,37.0,M,W,Plymouth Township,PA,False,attack,Not fleeing,False
+2803,2017-11-09,shot,unarmed,23.0,F,W,Flatwoods,KY,False,other,Car,False
+2815,2017-11-13,shot,unarmed,24.0,M,B,Baton Rouge,LA,False,attack,Foot,True
+2818,2017-11-15,shot,unarmed,29.0,M,A,Oklahoma City,OK,True,other,Not fleeing,True
+2824,2017-11-17,shot,unarmed,25.0,M,W,Albuquerque,NM,False,other,Car,False
+2825,2017-11-17,shot,unarmed,23.0,M,H,Albuquerque,NM,False,other,Car,False
+2827,2017-11-17,shot,unarmed,25.0,M,W,Fairfax,VA,False,undetermined,Car,False
+2829,2017-11-18,shot,unarmed,56.0,M,B,Prichard,AL,False,other,Car,False
+2857,2017-12-01,shot,unarmed,42.0,M,B,San Francisco,CA,False,other,Car,True
+2864,2017-12-06,shot,unarmed,42.0,M,B,Lauderdale Lakes,FL,True,attack,Not fleeing,True
+2868,2017-12-07,shot,unarmed,19.0,M,N,Denver,CO,False,other,Foot,False
+2897,2017-12-20,shot,unarmed,35.0,M,,Farmington,NM,False,other,Not fleeing,False
+2899,2017-12-21,shot,unarmed,6.0,M,W,Schertz,TX,False,other,Not fleeing,False
+2922,2017-12-27,shot,unarmed,28.0,M,W,Wichita,KS,False,other,Not fleeing,False
+2953,2018-01-06,shot and Tasered,unarmed,40.0,M,B,Los Lunas,NM,False,other,Car,False
+2958,2018-01-07,shot and Tasered,unarmed,51.0,M,W,Sedona,AZ,True,other,Not fleeing,False
+2983,2018-01-16,shot and Tasered,unarmed,27.0,M,W,Adams County,CO,False,attack,Not fleeing,False
+2989,2018-01-17,shot,unarmed,16.0,M,W,Franklin County,OH,False,other,Not fleeing,False
+2995,2018-01-20,shot,unarmed,61.0,M,B,Longview,TX,True,other,Not fleeing,False
+3001,2018-01-22,shot,unarmed,37.0,M,W,Sallisaw,OK,False,other,Not fleeing,False
+3008,2018-01-23,shot,unarmed,38.0,M,B,Bradenton,FL,True,other,Car,False
+3013,2018-01-25,shot,unarmed,47.0,M,H,Houston,TX,False,other,Not fleeing,False
+3028,2018-01-30,shot,unarmed,40.0,M,W,Pink,OK,False,other,Not fleeing,False
+3031,2018-02-01,shot,unarmed,35.0,M,W,Waverly,OH,True,attack,Foot,False
+3043,2018-02-03,shot,unarmed,43.0,M,W,Reading,MA,False,other,Foot,False
+3048,2018-02-06,shot,unarmed,59.0,M,W,St. Augustine,FL,False,other,Not fleeing,False
+3066,2018-02-13,shot,unarmed,33.0,M,B,Vallejo,CA,False,attack,Foot,False
+3091,2018-02-21,shot,unarmed,22.0,M,B,Stratford,TX,False,other,Car,False
+3094,2018-02-23,shot,unarmed,37.0,M,B,Woodbridge,VA,False,other,Foot,False
+3136,2018-03-07,shot,unarmed,84.0,F,W,Bexar County,TX,False,other,Not fleeing,False
+3159,2018-03-14,shot,unarmed,31.0,M,B,East Baton Rouge,LA,True,attack,Not fleeing,False
+3161,2018-03-15,shot and Tasered,unarmed,27.0,M,B,Casa Grande,AZ,False,attack,Not fleeing,False
+3169,2018-03-18,shot,unarmed,23.0,M,B,Sacramento,CA,False,other,Foot,True
+3173,2018-03-19,shot,unarmed,27.0,M,A,Denver,CO,False,other,Car,False
+3185,2018-03-22,shot,unarmed,35.0,M,B,Greenspoint,TX,True,attack,Not fleeing,False
+3187,2018-03-23,shot,unarmed,32.0,M,,Bogalusa,LA,False,attack,Not fleeing,False
+3194,2018-03-24,shot,unarmed,42.0,M,W,Nikolaevsk,AK,False,attack,Not fleeing,False
+3200,2018-03-27,shot,unarmed,24.0,M,W,Midway,FL,True,attack,Other,True
+3248,2018-04-08,shot,unarmed,25.0,M,B,Danville,VA,False,other,Other,True
+3287,2018-04-20,shot,unarmed,48.0,M,B,Orlando,FL,False,other,Not fleeing,False
+3309,2018-04-29,shot,unarmed,38.0,M,W,Shreveport,LA,False,attack,Foot,False
+3360,2018-05-14,shot,unarmed,20.0,M,W,Royal Oak,MI,False,attack,Not fleeing,False
+3364,2018-05-14,shot and Tasered,unarmed,24.0,M,B,Richmond,VA,False,attack,Car,True
+3380,2018-05-23,shot,unarmed,20.0,F,H,Rio Bravo,TX,False,attack,Not fleeing,False
+3381,2018-05-24,shot,unarmed,30.0,M,W,Citra,FL,False,attack,Foot,True
+3382,2018-05-24,shot,unarmed,33.0,M,W,Cleveland,OH,True,attack,Not fleeing,False
+3398,2018-06-01,shot,unarmed,21.0,M,H,Dundee,FL,False,attack,Not fleeing,False
+3402,2018-06-03,shot,unarmed,32.0,M,H,Chickasha,OK,False,other,Car,False
+3416,2018-06-08,shot,unarmed,36.0,M,W,Madison County,MS,False,other,Not fleeing,False
+3421,2018-06-11,shot,unarmed,41.0,M,B,Silver Spring,MD,True,attack,Not fleeing,True
+3424,2018-06-12,shot,unarmed,34.0,M,W,Phoenix,AZ,False,other,Not fleeing,False
+3438,2018-06-15,shot,unarmed,40.0,M,W,Nokomis,IL,False,other,Foot,False
+3441,2018-06-16,shot,unarmed,47.0,M,H,Albuquerque,NM,False,attack,Car,False
+3448,2018-06-19,shot,unarmed,17.0,M,B,Pittsburgh,PA,False,other,Foot,False
+3450,2018-06-20,shot,unarmed,33.0,M,B,Kingsland,GA,False,attack,Foot,True
+3490,2018-07-05,shot,unarmed,26.0,M,W,Devil's Lake,ND,False,attack,Foot,True
+3497,2018-07-07,shot,unarmed,27.0,M,W,Amity,OR,False,attack,Foot,False
+3500,2018-07-07,shot,unarmed,37.0,M,B,Vineland,NJ,True,other,,True
+3534,2018-07-21,shot,unarmed,27.0,F,H,Los Angeles,CA,False,other,Foot,True
+3548,2018-07-25,shot,unarmed,56.0,M,W,Lake Havasu,AZ,True,other,Not fleeing,True
+3557,2018-07-27,shot,unarmed,60.0,F,B,Savannah,GA,False,other,,False
+3560,2018-07-28,shot,unarmed,44.0,M,H,South Whitehall Township,PA,False,undetermined,Not fleeing,False
+3646,2018-09-05,shot,unarmed,23.0,M,B,Hollywood,FL,False,other,Not fleeing,False
+3676,2018-09-19,shot,unarmed,18.0,M,H,Los Angeles,CA,False,other,Car,False
+3702,2018-10-01,shot,unarmed,33.0,M,W,Orlando,FL,True,other,Not fleeing,False
+3743,2018-10-17,shot,unarmed,18.0,M,B,San Antonio,TX,False,other,Not fleeing,False
+3764,2018-10-23,shot,unarmed,24.0,M,W,Alderwood Manor,WA,False,attack,Car,False
+3779,2018-11-02,shot,unarmed,35.0,M,B,Idaho Falls,ID,False,attack,Foot,False
+3787,2018-11-04,shot,unarmed,39.0,M,H,Laramie,WY,True,other,Foot,False
+3798,2018-11-09,shot,unarmed,30.0,M,W,Salt Lake City,UT,False,undetermined,Car,True
+3801,2018-11-11,shot,unarmed,52.0,M,W,Wagoner,OK,False,other,Not fleeing,False
+3898,2018-12-18,shot,unarmed,27.0,M,B,Franklin Township,PA,False,attack,Car,False
+3965,2019-01-13,shot,unarmed,38.0,M,H,Calabasas,CA,False,other,Car,False
+3971,2019-01-14,shot,unarmed,18.0,M,H,Pueblo,CO,False,other,Car,False
+3981,2019-01-16,shot,unarmed,46.0,M,W,Fort Lupton,CO,True,undetermined,Car,True
+3988,2019-01-19,shot,unarmed,35.0,M,W,St. Louis Park,MN,True,undetermined,Not fleeing,False
+3992,2019-01-21,shot,unarmed,37.0,M,H,Las Vegas,NV,True,other,Car,False
+3993,2019-01-22,shot,unarmed,21.0,M,B,Atlanta,GA,False,undetermined,Foot,False
+3994,2019-01-23,shot,unarmed,20.0,M,W,Flagstaff,AZ,False,undetermined,Foot,False
+3999,2019-01-24,shot,unarmed,24.0,F,W,St. Louis,MO,False,other,Not fleeing,False
+4000,2019-01-24,shot,unarmed,26.0,M,H,Ehrenberg,AZ,False,other,Car,False
+4006,2019-01-28,shot,unarmed,58.0,F,W,Houston,TX,False,attack,Not fleeing,False
+4035,2019-02-07,shot,unarmed,38.0,M,W,Snyder,TX,False,undetermined,Not fleeing,False
+4039,2019-02-08,shot,unarmed,25.0,M,W,Bakersfield,CA,False,other,Not fleeing,False
+4047,2019-02-11,shot,unarmed,34.0,M,W,Montgomery,WV,True,other,Not fleeing,False
+4065,2019-02-18,shot,unarmed,20.0,M,A,Honolulu,HI,False,attack,Not fleeing,False
+4092,2019-03-01,shot,unarmed,47.0,M,A,Honolulu,HI,False,other,Foot,False
+4093,2019-03-01,shot and Tasered,unarmed,29.0,M,H,Fairfield,TX,False,other,Not fleeing,False
+4096,2019-03-02,shot,unarmed,46.0,M,W,Fairchild,WI,False,attack,Not fleeing,False
+4107,2019-03-05,shot,unarmed,21.0,F,H,Bakersfield,CA,False,other,Car,False
+4133,2019-03-13,shot,unarmed,30.0,M,H,Phoenix,AZ,False,other,Other,False
+4157,2019-03-24,shot,unarmed,57.0,M,B,Baltimore,MD,False,other,Not fleeing,True
+4173,2019-03-30,shot,unarmed,22.0,M,W,Watauga County,NC,False,attack,Not fleeing,False
+4183,2019-04-02,shot,unarmed,48.0,M,W,Redding,CA,True,attack,Not fleeing,False
+4188,2019-04-04,shot,unarmed,37.0,M,W,Kalamazoo,MI,True,other,Not fleeing,False
+4193,2019-04-07,shot,unarmed,35.0,M,B,Blytheville,AR,True,attack,Foot,True
+4205,2019-04-11,shot,unarmed,34.0,M,B,Boerne,TX,False,attack,Foot,False
+4246,2019-04-29,shot and Tasered,unarmed,17.0,M,B,Edmond,OK,False,attack,Foot,False
+4254,2019-05-02,shot,unarmed,52.0,M,W,Glenwood,GA,False,attack,Other,False
+4259,2019-05-04,shot,unarmed,25.0,M,W,Spokane,WA,True,other,Foot,False
+4306,2019-05-23,shot,unarmed,41.0,M,W,Montgomery,NY,False,other,Not fleeing,False
+4323,2019-05-31,shot,unarmed,26.0,M,A,Auburn,WA,True,other,Not fleeing,False
+4324,2019-06-01,shot,unarmed,35.0,M,N,Bartlesville,OK,True,undetermined,Not fleeing,False
+4332,2019-06-03,shot,unarmed,41.0,M,W,Detroit,MI,False,other,Car,False
+4339,2019-06-06,shot,unarmed,24.0,M,B,Los Angeles,CA,False,other,Car,False
+4363,2019-06-12,shot,unarmed,35.0,M,H,Farmers Branch,TX,False,other,Car,False
+4400,2019-06-27,shot,unarmed,18.0,M,H,Los Angeles,CA,False,other,Not fleeing,False
+4422,2019-07-03,shot,unarmed,49.0,M,A,Chino,CA,False,other,Not fleeing,True
+4428,2019-07-05,shot,unarmed,21.0,M,W,Oak View,CA,False,attack,Not fleeing,False
+4445,2019-07-13,shot,unarmed,35.0,M,H,Kirkland,WA,False,attack,Not fleeing,False
+4475,2019-07-25,shot,unarmed,38.0,M,B,Port Allen,LA,False,undetermined,,False
+4492,2019-08-01,shot,unarmed,30.0,F,W,Arlington,TX,False,other,Not fleeing,False
+4526,2019-08-13,shot,unarmed,31.0,M,W,Joplin,MO,True,attack,Not fleeing,False
+4552,2019-08-22,shot,unarmed,39.0,M,W,Glennville,GA,False,attack,Not fleeing,False
+4554,2019-08-23,shot,unarmed,31.0,M,W,West Valley City,UT,False,other,Not fleeing,True
+4557,2019-08-26,shot,unarmed,33.0,M,B,Knoxville,TN,False,attack,Not fleeing,False
+4590,2019-09-05,shot,unarmed,43.0,M,W,East Hartford,CT,False,attack,Not fleeing,False
+4608,2019-09-14,shot,unarmed,54.0,M,B,Baton Rouge,LA,False,undetermined,Not fleeing,False
+4651,2019-09-29,shot and Tasered,unarmed,37.0,M,W,Longview,TX,False,attack,Foot,False
+4677,2019-10-12,shot,unarmed,28.0,F,B,Fort Worth,TX,False,other,Not fleeing,True
+4685,2019-10-14,shot,unarmed,31.0,M,B,Ethel,LA,True,undetermined,Foot,False
+4689,2019-10-15,shot,unarmed,30.0,M,W,Hope Ranch,CA,False,other,Not fleeing,False
+4787,2019-11-16,shot,unarmed,41.0,M,W,Alliance,OH,False,attack,Foot,False
+4818,2019-11-30,shot,unarmed,40.0,M,H,Eugene,OR,False,attack,Not fleeing,False
+4827,2019-12-02,shot,unarmed,28.0,M,B,Temple,TX,False,undetermined,Not fleeing,False
+4852,2019-12-11,shot,unarmed,31.0,M,W,League City,TX,False,attack,Not fleeing,False
+4956,2020-01-10,shot and Tasered,unarmed,25.0,M,A,Spokane,WA,False,other,Car,False
+5000,2020-01-27,shot,unarmed,43.0,M,B,Temple Hills,MD,False,attack,Not fleeing,False
+5006,2020-01-29,shot,unarmed,20.0,M,B,Graham,NC,False,attack,Foot,False
+5065,2020-02-21,shot,unarmed,30.0,F,,Phoenix,AZ,False,attack,Not fleeing,False
+5070,2020-02-24,shot,unarmed,20.0,M,W,Floresville,TX,True,other,Not fleeing,False
+5083,2020-02-26,shot,unarmed,,M,,Garden Grove,CA,False,attack,,True
+5100,2020-03-04,shot,unarmed,37.0,M,W,Manila,AR,True,attack,Not fleeing,False
+5107,2020-03-06,shot,unarmed,27.0,M,B,Fort Lauderdale,FL,False,attack,Foot,False
+5109,2020-03-06,shot,unarmed,32.0,M,W,Edison,CA,False,attack,Not fleeing,False
+5115,2020-03-08,shot,unarmed,31.0,M,W,Humble,TX,False,other,Foot,False
+5117,2020-03-08,shot,unarmed,37.0,M,W,Wasilla,AK,False,attack,Not fleeing,False
+5120,2020-03-10,shot,unarmed,44.0,M,H,Bell Gardens,CA,True,undetermined,,False
+5124,2020-03-12,shot,unarmed,47.0,M,B,Kansas City,MO,False,undetermined,Foot,False
+5125,2020-03-13,shot,unarmed,26.0,F,B,Louisville,KY,False,other,Not fleeing,False
+5126,2020-03-13,shot,unarmed,30.0,M,H,Claremore,OK,False,attack,Foot,False
+5154,2020-03-20,shot,unarmed,31.0,M,B,Tallahassee,FL,False,attack,Other,False
+5158,2020-03-21,shot,unarmed,28.0,M,,Taylorsville,UT,False,other,Other,False
+5169,2020-03-26,shot,unarmed,32.0,M,W,Linwood,NC,False,other,Car,False
+5189,2020-04-02,shot,unarmed,27.0,M,H,Manchester,CT,True,other,Not fleeing,False
+5208,2020-04-09,shot,unarmed,39.0,M,W,Brandon,CO,False,attack,Foot,False
+5210,2020-04-10,shot,unarmed,33.0,M,W,Philadelphia,PA,False,other,Not fleeing,False
+5243,2020-04-23,shot,unarmed,34.0,M,B,North Las Vegas,NV,False,attack,Not fleeing,False
+5244,2020-04-24,shot,unarmed,42.0,M,H,Austin,TX,False,undetermined,Car,True
+5264,2020-05-01,shot,unarmed,36.0,M,W,San Diego,CA,True,other,Foot,False
+5265,2020-05-01,shot,unarmed,24.0,M,B,Seattle,WA,False,attack,Foot,True
+5325,2020-05-19,shot,unarmed,29.0,M,W,Sale Creek,TN,False,attack,Not fleeing,False
+5334,2020-05-23,shot,unarmed,28.0,M,B,Bass River,NJ,False,attack,Not fleeing,True
+5341,2020-05-25,shot,unarmed,28.0,M,B,Phoenix,AZ,False,other,Not fleeing,True
+5352,2020-05-26,shot and Tasered,unarmed,61.0,M,W,Jacksonville,FL,False,attack,Foot,True
+5358,2020-05-27,shot,unarmed,34.0,M,W,Luverne,AL,False,undetermined,Not fleeing,False
+5403,2020-06-13,shot,unarmed,25.0,F,W,Sedalia,MO,False,other,Not fleeing,False
+5432,2020-06-25,shot,unarmed,34.0,M,B,Vinita,OK,False,undetermined,Not fleeing,False
+5527,2020-08-04,shot,unarmed,36.0,M,W,Port Orchard,WA,True,undetermined,Not fleeing,False
+5533,2020-08-07,shot,unarmed,55.0,M,W,St. Petersburg,FL,True,attack,Not fleeing,False
+5538,2020-08-07,shot,unarmed,60.0,M,B,Sylvania,GA,False,undetermined,Car,False
+5644,2020-09-19,shot,unarmed,32.0,M,W,Auburn,WA,True,undetermined,Not fleeing,False
+5653,2020-09-23,shot,unarmed,42.0,M,B,San Clemente,CA,True,attack,,False
+5659,2020-09-25,shot,unarmed,21.0,M,H,Tempe,AZ,False,other,Car,True
+5667,2020-10-02,shot,unarmed,39.0,M,B,Mojave,CA,False,other,Foot,False
+5672,2020-10-03,shot and Tasered,unarmed,32.0,M,B,Wolfe City,TX,False,other,Not fleeing,True
+5673,2020-10-04,shot,unarmed,30.0,M,,Chula Vista,CA,False,attack,Car,False
+5677,2020-10-05,shot,unarmed,47.0,M,H,Napa,CA,False,other,Not fleeing,True
+5687,2020-10-09,shot,unarmed,25.0,M,W,Pine County,MN,False,undetermined,Car,True
+5693,2020-10-12,shot and Tasered,unarmed,24.0,M,B,Bethel Springs,TN,False,other,Car,False
+5711,2020-10-17,shot,unarmed,21.0,M,W,Wood County,WV,False,attack,Not fleeing,False
+5719,2020-10-19,shot,unarmed,37.0,M,W,Thornton,NH,True,undetermined,Not fleeing,True
+5722,2020-10-20,shot,unarmed,19.0,M,B,Waukegan,IL,False,other,Car,True
+5727,2020-10-20,shot,unarmed,44.0,M,H,Phoenix,AZ,False,other,Not fleeing,True
+5741,2020-10-23,shot,unarmed,30.0,M,H,San Ysidro,CA,False,attack,Not fleeing,False
+5760,2020-10-30,shot,unarmed,43.0,M,W,El Paso,TX,False,other,Car,False
+5764,2020-10-31,shot,unarmed,36.0,M,W,Denver,CO,False,undetermined,,False
+5834,2020-11-20,shot,unarmed,37.0,M,W,Upper Darby,PA,False,attack,Foot,False
+5842,2020-11-23,shot,unarmed,15.0,M,H,Oklahoma City,OK,False,other,,True
+5877,2020-12-08,shot,unarmed,27.0,M,W,Riverview,FL,True,attack,Car,True
+5879,2020-12-09,shot,unarmed,27.0,F,H,Brewster County,TX,False,attack,Not fleeing,False
+5899,2020-12-15,shot,unarmed,28.0,M,N,Glenpool,OK,False,attack,,False
+5912,2020-12-20,shot,unarmed,34.0,M,W,Anchorage,AK,False,undetermined,Car,False
+5914,2020-12-22,shot,unarmed,47.0,M,B,Columbus,OH,False,undetermined,Not fleeing,True
+5932,2020-12-28,shot,unarmed,30.0,M,W,Phoenix,AZ,False,other,Foot,True
+5936,2020-12-29,shot,unarmed,29.0,M,W,Modesto,CA,False,undetermined,,True
+5960,2021-01-06,shot,unarmed,35.0,F,W,Washington,DC,False,attack,Not fleeing,False
+5971,2021-01-10,shot,unarmed,52.0,M,B,Killeen,TX,True,other,Not fleeing,True
+6001,2021-01-20,shot,unarmed,19.0,M,W,Tucson,AZ,False,attack,Car,False
+6004,2021-01-21,shot,unarmed,27.0,M,H,San Jose,CA,False,other,Foot,True
+6026,2021-02-01,shot,unarmed,58.0,M,W,Caroline County,VA,True,other,Not fleeing,False
+6039,2021-02-04,shot,unarmed,30.0,M,B,Hazel Dell,WA,False,attack,Not fleeing,False
+6070,2021-02-13,shot,unarmed,28.0,M,B,Fontana,CA,False,other,Foot,True
+6083,2021-02-18,shot,unarmed,37.0,M,W,Athens,GA,False,other,Foot,True
+6087,2021-02-19,shot,unarmed,29.0,M,W,Yreka,CA,False,attack,Not fleeing,False
+6169,2021-03-21,shot,unarmed,24.0,M,H,Sylvania Township,OH,False,other,Foot,False
+6255,2021-04-14,shot and Tasered,unarmed,29.0,M,B,Honolulu,HI,False,attack,,True
+6289,2021-04-24,shot,unarmed,34.0,M,W,Los Angeles,CA,True,other,Not fleeing,True
+6360,2021-05-23,shot and Tasered,unarmed,55.0,M,W,Williams Township,PA,True,attack,Not fleeing,False
+6446,2021-06-21,shot,unarmed,31.0,M,W,Heath Township,MI,True,other,,False
+6550,2021-07-26,shot,unarmed,29.0,F,,San Antonio,TX,False,other,,False
+6569,2021-08-05,shot,unarmed,35.0,M,,Hartford,VT,False,attack,,False
+6576,2021-08-07,shot,unarmed,21.0,M,,Bakersfield,CA,False,undetermined,Car,True
+6583,2021-08-09,shot,unarmed,39.0,M,,Tustin,CA,True,other,Not fleeing,False
+6621,2021-08-22,shot,unarmed,59.0,M,,Guadalupe,CA,False,other,Not fleeing,False
+6625,2021-08-24,shot,unarmed,31.0,M,,Payson,AZ,False,other,,False
+6627,2021-08-24,shot,unarmed,22.0,M,,College Park,GA,False,undetermined,,False
+6639,2021-08-27,shot,unarmed,41.0,M,B,Greensboro,NC,False,attack,Not fleeing,False
+6644,2021-08-27,shot,unarmed,8.0,F,,Sharon Hill,PA,False,other,Not fleeing,False
+6732,2021-09-27,shot,unarmed,18.0,F,,Long Beach,CA,False,other,Car,False
+6754,2021-10-04,shot,unarmed,61.0,M,B,Chicago,IL,False,undetermined,,True
+6758,2021-10-05,shot,unarmed,43.0,M,H,Corpus Christi,TX,False,other,Car,False
+6802,2021-10-18,shot,unarmed,30.0,M,,Washington,DC,False,attack,,True
+6864,2021-11-13,shot,unarmed,42.0,M,B,Jackson,TN,False,attack,,False
+6926,2021-12-07,shot,unarmed,41.0,M,H,Albuquerque,NM,False,attack,Foot,False
+6937,2021-12-10,shot,unarmed,55.0,M,,Antioch,CA,False,undetermined,Foot,False
+6976,2021-12-23,shot,unarmed,14.0,F,,Los Angeles,CA,False,other,Foot,True
+6984,2021-12-26,shot,unarmed,40.0,M,B,Titusville,FL,False,attack,Foot,True
+7012,2022-01-05,shot,unarmed,28.0,M,H,Victoria,TX,False,other,Foot,False
+7068,2022-01-30,shot,unarmed,20.0,M,B,Crofton,MD,False,attack,Not fleeing,False
+7111,2022-02-13,shot,unarmed,,M,,Concord,NC,False,attack,,False
+7124,2022-02-16,shot,unarmed,34.0,M,W,Marrero,LA,False,other,Not fleeing,True
+7137,2022-02-19,shot,unarmed,39.0,M,B,Winter Park,FL,True,attack,Not fleeing,True
+7140,2022-02-20,shot,unarmed,38.0,M,,Margate,FL,False,attack,Not fleeing,False
+7221,2022-03-19,shot,unarmed,33.0,M,,Albuquerque,NM,False,other,Not fleeing,False
+7240,2022-03-26,shot,unarmed,2.0,F,,Baxter Springs,KS,False,other,,False
+7275,2022-04-04,shot,unarmed,26.0,M,B,Grand Rapids,MI,False,attack,Foot,True
+7283,2022-04-05,shot,unarmed,27.0,M,W,Killeen,TX,True,attack,,False
+7302,2022-04-11,shot,unarmed,28.0,M,,Salem,OR,False,attack,,False
+7330,2022-04-21,shot,unarmed,34.0,M,,Mott,ND,False,attack,,False
+7401,2022-05-19,shot,unarmed,49.0,M,,San Francisco,CA,False,undetermined,Not fleeing,True
+7407,2022-05-21,shot,unarmed,58.0,M,W,Aiken County,SC,False,other,Other,False
+7488,2022-06-15,shot,unarmed,,F,,Prescott,AZ,False,undetermined,,False
+7491,2022-06-16,shot,unarmed,22.0,M,,Monterey Township,MI,False,attack,,False
+7506,2022-06-21,shot,unarmed,,M,,Adelanto,CA,False,other,Foot,False
+7524,2022-06-27,shot,unarmed,25.0,M,B,Akron,OH,False,other,Other,True
+7557,2022-07-08,shot,unarmed,28.0,M,N,Fargo,ND,False,other,Foot,False
+7618,2022-07-27,shot,unarmed,30.0,M,,Dallas,TX,False,undetermined,Car,True
+7702,2022-08-30,shot,unarmed,20.0,M,B,Columbus,OH,False,undetermined,Not fleeing,True
+7721,2022-09-05,shot,unarmed,32.0,M,,Cleveland,OH,True,attack,,True
