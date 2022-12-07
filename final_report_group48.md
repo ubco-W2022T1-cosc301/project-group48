@@ -111,7 +111,7 @@ Here we can see that police shootings are much more widespread in the East than 
 
 
 # Conclusion
-(Sahrj Singh)
+(Sahraj Singh)
 
 **Is there a difference between the ratio of threatening and non-threat victims of each race?**
 
