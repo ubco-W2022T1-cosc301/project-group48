@@ -72,7 +72,7 @@ To answer my question I began by gathering some information of basic characteris
 
 First, I started by plotting the count of incidents by race and by threat vs non-threat victims to see if there are any difference between perception of the race by the police or of culture between each race.
 
-![Incidents by Race Based on Threat Level](.\images\A1-1.png)
+![Incidents by Race Based on Threat Level](/images/A1-1.png)
 
 From this, I made the following observations:
 1. Asian people, Native peoples, and people belonging to "Other" races show very little difference in "Attack" vs. "Other" threat level victims. Since about 65% of victims are attackers, this could explain why victim counts for these races are comparatively low.
@@ -82,7 +82,7 @@ From this, I made the following observations:
 
 Next, I plotted number of incidents against the year by race to see how the treatment of each race has changed throughout the years.
 
-![Count of Threat vs Non-Threat Victims by Race](..\images\A1-2.png)
+![Count of Threat vs Non-Threat Victims by Race](/images/A1-2.png)
 
 We can gather that:
 1. Number of Asian victims, Native victims, and people belonging to "Other" races remained somewhat constant through the years.
@@ -91,7 +91,7 @@ We can gather that:
 
 Then, I plotted number of incidents by state and race to see the differences in the treatment of different races in each state.
 
-![Count of incidents through the time period by Race](\images\A1-3.png)
+![Count of incidents through the time period by Race](/images/A1-3.png)
 
 From this heatmap, we can see that:
 1. California and Texas have an unnaturaly high number of Hispanic victims.
@@ -100,7 +100,7 @@ From this heatmap, we can see that:
 
 Finally there are a few more visualisations available in the dashboard but to finish off I created a map to show density of incidents by area.
 
-![Map of Incidents](images\A1-4.png)
+![Map of Incidents](/images/A1-4.png)
 
 Here we can see that police shootings are much more widespread in the East than in the West. We can see some highly concentrated areas in the west such as in the states of California, Washington and Arizona and central America such as Texas.Moving from west to east the climate becomes increasingly more unsafe. The East side on the other hand seems to be generally unsafe in the case of police shootings. This might be due to a shift in policing culture and political factors. 
 
