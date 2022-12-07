@@ -6,7 +6,7 @@ Our dataset consists of people killed by law enforcement in the United States, b
 In this project, we will we exploring three research questions:
 1. Are there any trends between the race & age of the victim and the number of shootings by law enforcement in the United States? 
 1. Trends in shooting for people belonging to marginalized communities, example women, people of colour, people with mental issues, people belonging to older age groups. 
-1. Sahraj Research Question
+1. Trends in differences between races in threat level, number of incidents through the years and level of safety based on location.
 
 ----
 # Exploratory Data Analysis (EDA)
@@ -63,7 +63,64 @@ Lastly when we look at marginalized communities, we looked at the age vs counts 
 ![Gender plus mental illness vs count](images/screenshot(41).png)
 
 ![Race vs Age and Race pie chart](images/screenshot(42).png)
-## RQ 3:
+## Research Question 3:
+
+### **Trends in differences between races in threat level, number of incidents through the years and level of safety based on location. (Sahraj Singh)**
+<br/>
+
+To answer my question I began by gathering some information of basic characteristics namely ratio of incidents with attack level threat victims vs. non-attack threat level and count of incidents by race, by year and by state. Then I combined this data to find correlations between these characteristics.
+
+First, I started by plotting the count of incidents by race and by threat vs non-threat victims to see if there are any difference between perception of the race by the police or of culture between each race.
+
+![Incidents by Race Based on Threat Level](images\A1-1.png)
+
+From this, I made the following observations:
+1. Asian people, Native peoples, and people belonging to "Other" races show very little difference in "Attack" vs. "Other" threat level victims. Since about 65% of victims are attackers, this could explain why victim counts for these races are comparatively low.
+1. White people have ratio of number of attackers to other victims. This could either mean that a higher number of non-threat white people do not become victims of police shootings compared to other races, or that white people have a higher probability of being an "Attack" level threat.
+1. Hispanic people have a small ratio of number of attackers to other victims. From this information we can deduce that unarmed Hispanic people have a higher probability of becoming victims than unarmed people of the other races.
+<br/>
+
+Next, I plotted number of incidents against the year by race to see how the treatment of each race has changed throughout the years.
+
+![Count of Threat vs Non-Threat Victims by Race](images\A1-2.png)
+
+We can gather that:
+1. Number of Asian victims, Native victims, and people belonging to "Other" races remained somewhat constant through the years.
+1. Number of white victims reduced gradually but significantly from 2015-2022.
+1. Number of Black and Hispanic victims remained somewhat constant up until 2021 and reduces slightly in 2022. This can be explained by the COVID-19 pandemic.
+
+Then, I plotted number of incidents by state and race to see the differences in the treatment of different races in each state.
+
+![Count of incidents through the time period by Race](images\A1-3.png)
+
+From this heatmap, we can see that:
+1. California and Texas have an unnaturaly high number of Hispanic victims.
+1. Los Angeles and Maryland have more black victims that white victims which completely goes against the trend of population within these communities.
+1. Rhode Island, the state with the lowest number of shootings only has Black and Hispanic victims.
+
+Finally there are a few more visualisations available in the dashboard but to finish off I created a map to show density of incidents by area.
+
+![Map of Incidents](images\A1-4.png)
+
+Here we can see that police shootings are much more widespread in the East than in the West. We can see some highly concentrated areas in the west such as in the states of California, Washington and Arizona and central America such as Texas.Moving from west to east the climate becomes increasingly more unsafe. The East side on the other hand seems to be generally unsafe in the case of police shootings. This might be due to a shift in policing culture and political factors. 
+
+
+
+
+
+
 
 # Conclusion
+(Sahrj Singh)
 
+**Is there a difference between the ratio of threatening and non-threat victims of each race?**
+
+Yes, white people have the highest ratio of "Attack" level to non-attack level victims. Black people come second and hispanic people third in that regard. This indicates that Black and Hispanic people have a higher probability of being victmized while not being a threat. Asian people, Native peoples, and people belonging to other races showed even lower ratios, this could be due to differences in culture.
+
+**Has treatment of different races by the police changed through the years?**
+
+Number of white victims involved in police shootings saw a gradual yet significant decrease throughout the time-period. Number of victims of all other races remained somewhat constant except in 2022 where we saw a significant decrease in the number of shootings in general. This can be explained by the COVID-19 pandemic.
+
+**Are some areas(states) safer than others for people of different races?**
+
+Yes, California and Texas are comparatively unsafe for Hispanic people in the span of 8 years about 330 incidents took place in California with Hispanic victims. Los Angeles and Maryland are comparatively unsafe for black people as the ratio of black people involved in incidents is high as compared to other races and their population sizes. Rhode Island, the state with the lowest number of shootings only had black and hispanic victims. A trend of targeting people of color can be seen in certain states that goes completely against intuition based on the populations of these races in the state. Some areas such as the dense clusters of incidents in the west should be avoided, in the east however specific location does not seem to be a deciding factor and the area seems to be unsafe in general.
