@@ -105,22 +105,6 @@ Finally there are a few more visualisations available in the dashboard but to fi
 Here we can see that police shootings are much more widespread in the East than in the West. We can see some highly concentrated areas in the west such as in the states of California, Washington and Arizona and central America such as Texas.Moving from west to east the climate becomes increasingly more unsafe. The East side on the other hand seems to be generally unsafe in the case of police shootings. This might be due to a shift in policing culture and political factors. 
 
 
-
-
-
-
-
 # Conclusion
-(Sahraj Singh)
 
-**Is there a difference between the ratio of threatening and non-threat victims of each race?**
-
-Yes, white people have the highest ratio of "Attack" level to non-attack level victims. Black people come second and hispanic people third in that regard. This indicates that Black and Hispanic people have a higher probability of being victmized while not being a threat. Asian people, Native peoples, and people belonging to other races showed even lower ratios, this could be due to differences in culture.
-
-**Has treatment of different races by the police changed through the years?**
-
-Number of white victims involved in police shootings saw a gradual yet significant decrease throughout the time-period. Number of victims of all other races remained somewhat constant except in 2022 where we saw a significant decrease in the number of shootings in general. This can be explained by the COVID-19 pandemic.
-
-**Are some areas(states) safer than others for people of different races?**
-
-Yes, California and Texas are comparatively unsafe for Hispanic people in the span of 8 years about 330 incidents took place in California with Hispanic victims. Los Angeles and Maryland are comparatively unsafe for black people as the ratio of black people involved in incidents is high as compared to other races and their population sizes. Rhode Island, the state with the lowest number of shootings only had black and hispanic victims. A trend of targeting people of color can be seen in certain states that goes completely against intuition based on the populations of these races in the state. Some areas such as the dense clusters of incidents in the west should be avoided, in the east however specific location does not seem to be a deciding factor and the area seems to be unsafe in general.
+Therefore, with the above visualizations and data analysis, we can observe that there was a decrease in the number of shootings from 2015 - 2022. This could be due to several reasons but this shows that there are reforms present in the United States that are tackling the issues of shootings by law enforcement in the country. With the analysis above, we recommend the government encourages more reforms in the system, starting with the availability of body cameras. More than 350 unarmed victims were shot and there was no body camera present to access the situation. Additionally, when we looked into the marginalized community, especially concerning mental health, we should encourage governments to have liaison officers that have expertise in psychology that can better access situations and could potentially avoid shooting the victim. 
