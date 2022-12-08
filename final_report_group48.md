@@ -53,16 +53,16 @@ With the above histogram, we can observe that most of the victims are aged betwe
 <br/>
 
 To explore my research question, I used various kinds of visualizations to see trends in various scenarious during the shootings. 
-![Mental illness plus race vs counts](images/screenshot(40).png)
+![Mental illness plus race vs counts](/images/screenshot(40).png)
 
 <br/>
 When looking at marginalized communities I looked at people of colour, people who are too young or old, and people who are not mentally well. 
 There were approximately 2000 cases in which someone who was not mentally well was involved. When looking at the graph of mentall-ill plus race vs count, the people belonging to hispanic and black communities has the highest counts after white people, even though their population sizes were quite different. After that coming to the graph which compares the gender, bases on counts of shooting, females were involved in a lot less cases than men. 
 Lastly when we look at marginalized communities, we looked at the age vs counts of shooting graph from which we can draw out the conclusion that children an elderely were involved in barely any counts of shooting , whereas people belonging to the range of 20 to late 40 had the most counts.
 
-![Gender plus mental illness vs count](images/screenshot(41).png)
+![Gender plus mental illness vs count](/images/screenshot(41).png)
 
-![Race vs Age and Race pie chart](images/screenshot(42).png)
+![Race vs Age and Race pie chart](/images/screenshot(42).png)
 ## Research Question 3:
 
 ### **Trends in differences between races in threat level, number of incidents through the years and level of safety based on location. (Sahraj Singh)**
